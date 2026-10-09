@@ -23,7 +23,7 @@ function Dashboard() {
         <div>
           <p className="eyebrow">OVERVIEW</p>
 
-          <h1>Good afternoon, Investigator.</h1>
+          <h1>Good morning, Investigator.</h1>
 
           <p>
             Monitor return investigations and identify potential
